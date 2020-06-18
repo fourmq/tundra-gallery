@@ -6,5 +6,5 @@ html {
 body {
 	display: flex;
 	flex-direction: column;
-	background-color: pink;	
+	background-image: url(/tundra-img/background.jpg);
 }
